@@ -1,0 +1,63 @@
+# Python Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.Python
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+
+# Uploaded files (optional - remove if you want to track uploads)
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Frontend - Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/dist/
+frontend/.cache/
+
+# Next.js specific
+frontend/.env*.local
+frontend/.vercel
+
+# Testing
+frontend/coverage/
+frontend/.nyc_output/
+
+# Production
+frontend/build/
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+Thumbs.db
