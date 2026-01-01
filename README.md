@@ -2,6 +2,13 @@
 
 A full-stack product showcase application built with FastAPI (backend) and Next.js (frontend).
 
+## Video Demo
+
+
+
+https://github.com/user-attachments/assets/1218f03a-368f-497d-bb68-0e352e2b18fb
+
+
 ## 🚀 Features
 
 - Product listing and management
